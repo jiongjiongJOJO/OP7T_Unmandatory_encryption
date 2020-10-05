@@ -1,0 +1,2 @@
+# OP7T_Unmandatory_encryption
+一键自动化解除一加7T&amp;7TPro强制加密data
